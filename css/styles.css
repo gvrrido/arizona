@@ -430,21 +430,21 @@ body{
 
 *{
     margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+    padding: auto;
     font-family: sans-serif;
   }
+
   
   footer{
     width: 100%;
-    background: #202020;
+    background: #1a1818;
     color: white;   
     
   }
   
   .container-footer-all{
-    width: 80%;
-    max-width: 1200px;
+    width: 90%;
+    max-width: 12000px;
     margin: auto;
     padding: 40px;
   }
@@ -532,7 +532,7 @@ body{
   }
   
   .footer{
-    max-width: 1200px;
+    max-width: 12000px;
     margin: auto;
     justify-content: space-between;  
     padding: flex;
